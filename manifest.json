@@ -1,7 +1,7 @@
 {
   "name": "UVERLYRICS",
   "short_name": "UVERLyrics",
-  "start_url": "https://lyrics.tutorialike.com/?m=1",
+  "start_url": "https://tutorialike.com/?m=1",
   "display": "standalone",
   "background_color": "#67778e",
   "theme_color": "#67778e",
